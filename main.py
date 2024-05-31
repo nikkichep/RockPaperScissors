@@ -1,6 +1,6 @@
  # complete game of rock, paper, scissors
-player1 = 'rock'
-player2 = 'rock'
+player1 = 'paper'
+player2 = 'scissors'
 
 if player1 == player2:
    print('Its a tie')
